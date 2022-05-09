@@ -15,7 +15,7 @@ repository:
   description: OThis add-on provides a common agent, flag, and configs for all DaMichel products, for Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/
 
   # A comma-separated list of topics to set on the repository
   topics: damichel,flag,agent,kerbal,kerbalspaceprogram,ksp,ksp-mods,kerbal-space,kerbal-space-program,kerbal-mods,zedk
