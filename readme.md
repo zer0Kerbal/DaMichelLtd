@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.7.1
-DaMichel Ltd (KM/L)
+DaMichel Ltd (DM/L)
 created: 17 Jul 2017
 updated: 09 May 2022 -->
 
@@ -11,7 +11,7 @@ updated: 09 May 2022 -->
 
 
 
-# DaMichel Ltd (KM/L)
+# DaMichel Ltd (DM/L)
 
 *Purveyors of fine Kichel Space Travel Supplies*
 
