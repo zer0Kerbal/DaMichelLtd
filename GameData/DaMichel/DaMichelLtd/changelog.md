@@ -7,7 +7,7 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/DaMichelLtd)            |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DaMichelLtd)          |
-| spacedock  | (https://spacedock.info/mod/3025)                                 |
+| spacedock  | (https://spacedock.info/mod/3027)                                 |
 | ckan       | DaMichelLtd                                                       |
 
 ## Version 0.9.99.0-prerelease - `<Edition>`
