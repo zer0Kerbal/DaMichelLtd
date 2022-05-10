@@ -66,7 +66,7 @@ updated: 02 May 2022
 </ul>
 
 <!-- links -->
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd Ltd. Forum Thread"
+[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd Forum Thread"
 
 [damichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/ "damichel"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
