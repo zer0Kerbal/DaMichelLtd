@@ -30,7 +30,11 @@ based upon work by LisiasT -->
 
 ## DaMichel Ltd
 
-* "Klockheed Martin" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "DaMichel Ltd" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+
+## Kichel Space Travel Supplies
+
+* "Kichel Space Travel Supplies" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo)
 
