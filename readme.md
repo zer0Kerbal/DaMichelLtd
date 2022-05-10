@@ -1,6 +1,3 @@
-# DaMichel Ltd
-Adds DaMichel Ltd. Agent, Flags, and common config files used in all DaMichel's add-ons for Kerbal Space Progr
-
 <!-- readme.md v1.6.7.1
 DaMichel Ltd (KM/L)
 created: 17 Jul 2017
