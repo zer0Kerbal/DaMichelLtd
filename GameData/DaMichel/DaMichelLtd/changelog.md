@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | DaMichel Ltd (DM/L)                                               |
+| modName    | DaMichel Ltd (DML)                                               |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel and zer0Kerbal                                           |
@@ -37,7 +37,7 @@
 ### Status
 
 * Issues
-  * closes #22 - DaMichel Ltd (DM/L) 0.9.99.0-prerelease `<Kichel Space Travel Supplies>`
+  * closes #22 - DaMichel Ltd (DML) 0.9.99.0-prerelease `<Kichel Space Travel Supplies>`
   * closes #4 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #5 - 0.9.99.0 Create Documentation
   * closes #6 - 0.9.99.0 Social Media
