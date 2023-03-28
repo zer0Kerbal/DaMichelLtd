@@ -47,7 +47,6 @@ Agent, flags, and common files for DaMichel's parts addons.
 ### Localization
 
 >* ![English][EN] English
->* ![日本語][JA] Japanese(日本語) - Arigatō (ありがとう) [Paras0750](https://github.com/Paras0750)
 >* ***your translation here***
 
 ### Installation Directions
