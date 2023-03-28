@@ -10,6 +10,25 @@
 | spacedock  | (https://spacedock.info/mod/3027)                                 |
 | ckan       | DaMichelLtd                                                       |
 
+## Version 0.9.99.1-prerelease - `<Kichel Space Travel Supplies>` edition
+
+* Released
+  * 28 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* update
+  * agency
+  * textures
+  * documentation
+
+* Issues
+  * closes #30 - DaMichel Ltd (DML) 0.9.99.1-prerelease `<Kichel Space Travel Supplies>` edition
+  * closes #31 - 0.9.99.1 Additional Tasks
+  * updates #5 - Localization - Master
+
+---
+
 ## Version 0.9.99.0-prerelease - `<Kichel Space Travel Supplies>`
 
 * 09 May 2022  
