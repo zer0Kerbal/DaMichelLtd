@@ -8,13 +8,13 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-DaMichel Ltd (DM/L)
+DaMichel Ltd (DML)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# DaMichel Ltd (DM/L)
+# DaMichel Ltd (DML)
 
 [Home](./index.md)
 
@@ -48,6 +48,6 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
+© 2011-2023 zer0Kerbal™
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
