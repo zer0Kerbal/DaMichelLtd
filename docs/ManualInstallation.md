@@ -2,22 +2,28 @@
 permalink: /ManualInstallation.html
 title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.7.0
+<!-- ManualInstallation.md v1.1.9.0
 DaMichel Ltd (DML)
-created: 01 Oct 2019
-updated: 18 Apr 2022 -->
+created: 28 Mar 2023
+updated: 13 Apr 2022
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.0
+created: 01 Feb 2022
+updated: 27 Mar 2023
 
-# DaMichel Ltd (DML)
+based upon work by Lisias -->
+
+## [DaMichel Ltd (DML)][DML]
 
 [Home](./index.md)
 
-<BLURB>
+
+*Purveyors of fine Kichel Space Travel Supplies*
+
+Agent, flags, and common files for DaMichel's parts addons.
 
 ## Installation Instructions
 
@@ -64,9 +70,10 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
           ...
         * #.#.#.#.htm
         * changelog.md
+        * DaMichelLtdLtd.version
         * License.txt
         * readme.htm
-        * DaMichelLtdLtd.version
+    * ModuleManager.ConfigCache
     ...
   * KSP.log
   ...
