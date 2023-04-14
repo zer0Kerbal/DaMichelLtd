@@ -1,5 +1,5 @@
 <!-- readme.md v1.1.1.0
-DaMichel Ltd (DML)
+DaMichel Limited (DML)
 created: 09 May 2022
 updated: 13 Apr 2023
 
@@ -13,7 +13,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][SHD:ksp]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-# [DaMichel Ltd (DML)][DML]
+# [DaMichel Limited (DML)][DML]
 
 *Purveyors of fine Kichel Space Travel Supplies*
 
@@ -59,7 +59,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Suggests
 
-* [DaMichel Ltd (DML)][DML]
+* [DaMichel Limited (DML)][DML]
   * [DaMichel's AeroRadial (DAR)][DAR]
   * [DaMichel's CargoBays (DCB)][DCB]
   * [DaMichel's Fuselage (DFF)][DMF]
@@ -156,7 +156,7 @@ Comment, click, like, share, up-vote, subscribe
 [ODFC]: https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells "On Demand Fuel Cells (ODFC)"
 [PIZZA]: https://www.curseforge.com/kerbal/ksp-mods/Pizza "Papa Kerballini's Pizza (PIZZA)"
 
-[DML]: https://www.curseforge.com/kerbal/ksp-mods/damichelltd "DaMichel Ltd (DML)"
+[DML]: https://www.curseforge.com/kerbal/ksp-mods/damichelltd "DaMichel Limited (DML)"
 [DAR]: https://www.curseforge.com/kerbal/ksp-mods/AeroRadial "DaMichel's AeroRadial (DAR)"
 [DCB]: https://www.curseforge.com/kerbal/ksp-mods/CargoBays "DaMichel's CargoBays (DCB)"
 [DMF]: https://www.curseforge.com/kerbal/ksp-mods/Fuselage "DaMichel's Fuselage (DMF)"
