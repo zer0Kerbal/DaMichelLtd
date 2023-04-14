@@ -3,7 +3,7 @@ permalink: /License.html
 title: CC BY-SA 4.0
 ---
 <!-- CC-BY-SA-4.0.md v1.0.1.0
-DaMichel Ltd (DML)
+DaMichel Limited (DML)
 created: 01 Feb 2022
 updated: 10 May 2022 -->
 
