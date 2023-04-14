@@ -13,7 +13,7 @@
 ## Version 0.9.99.1-prerelease - `<Kichel Space Travel Supplies>` edition
 
 * Released
-  * 28 Mar 2023
+  * 13 Apr 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
