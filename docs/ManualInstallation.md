@@ -6,7 +6,7 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.9.0
-DaMichel Ltd (DML)
+DaMichel Limited (DML)
 created: 28 Mar 2023
 updated: 13 Apr 2022
 
@@ -16,7 +16,7 @@ updated: 27 Mar 2023
 
 based upon work by Lisias -->
 
-## [DaMichel Ltd (DML)][DML]
+## [DaMichel Limited (DML)][DML]
 
 [Home](./index.md)
 
@@ -83,4 +83,4 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * none
 
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DML)"
+[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Limited (DML)"
