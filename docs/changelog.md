@@ -6,13 +6,13 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- hdr-changelog.md v1.0.0.1
-DaMichel Ltd (DML)
+DaMichel Limited (DML)
 created: 13 May 2022
 updated: 05 Nov 2022
 CC BY-ND 4.0 by zer0Kerbal -->  
 # Changelog  
   
-| modName    | DaMichel Ltd (DML)                                                |
+| modName    | DaMichel Limited (DML)                                                |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel and zer0Kerbal                                           |
@@ -35,7 +35,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * documentation
 
 * Issues
-  * closes #30 - DaMichel Ltd (DML) 0.9.99.1-prerelease `<Kichel Space Travel Supplies>` edition
+  * closes #30 - DaMichel Limited (DML) 0.9.99.1-prerelease `<Kichel Space Travel Supplies>` edition
   * closes #31 - 0.9.99.1 Additional Tasks
   * updates #5 - Localization - Master
 
@@ -68,7 +68,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ### Status
 
 * Issues
-  * closes #22 - DaMichel Ltd (DML) 0.9.99.0-prerelease `<Kichel Space Travel Supplies>`
+  * closes #22 - DaMichel Limited (DML) 0.9.99.0-prerelease `<Kichel Space Travel Supplies>`
   * closes #4 - 0.9.99.0 Verify Legal Mumbo Jumbo
   * closes #5 - 0.9.99.0 Create Documentation
   * closes #6 - 0.9.99.0 Social Media
